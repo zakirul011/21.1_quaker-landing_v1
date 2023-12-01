@@ -1,0 +1,59 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="1089px" height="742px">
+<defs>
+<filter filterUnits="userSpaceOnUse" id="Filter_0" x="0px" y="0px" width="1089px" height="742px"  >
+    <feOffset in="SourceAlpha" dx="0" dy="29" />
+    <feGaussianBlur result="blurOut" stdDeviation="0" />
+    <feFlood flood-color="rgb(0, 0, 0)" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="blurOut" />
+    <feComponentTransfer><feFuncA type="linear" slope="0.41"/></feComponentTransfer>
+    <feMerge>
+    <feMergeNode/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+<linearGradient id="PSgrad_0" x1="0%" x2="0%" y1="100%" y2="0%">
+  <stop offset="0%" stop-color="rgb(80,80,82)" stop-opacity="0.29" />
+  <stop offset="100%" stop-color="rgb(255,255,255)" stop-opacity="0.29" />
+</linearGradient>
+<filter filterUnits="userSpaceOnUse" id="Filter_1" x="270px" y="478px" width="118px" height="146px"  >
+    <feOffset in="SourceAlpha" dx="0" dy="29" />
+    <feGaussianBlur result="blurOut" stdDeviation="0" />
+    <feFlood flood-color="rgb(0, 0, 0)" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="blurOut" />
+    <feComponentTransfer><feFuncA type="linear" slope="0.41"/></feComponentTransfer>
+    <feMerge>
+    <feMergeNode/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+<filter filterUnits="userSpaceOnUse" id="Filter_2" x="247px" y="584px" width="55px" height="83px"  >
+    <feOffset in="SourceAlpha" dx="0" dy="29" />
+    <feGaussianBlur result="blurOut" stdDeviation="0" />
+    <feFlood flood-color="rgb(0, 0, 0)" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="blurOut" />
+    <feComponentTransfer><feFuncA type="linear" slope="0.41"/></feComponentTransfer>
+    <feMerge>
+    <feMergeNode/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+</defs>
+<g filter="url(#Filter_0)">
+<path fill-rule="evenodd"  fill="#ffbb00"
+ d="M732.720,712.651 C617.821,712.736 515.585,658.499 450.294,574.227 L450.243,574.385 C450.018,574.011 449.786,573.656 449.560,573.285 C443.783,565.777 438.302,558.030 433.127,550.065 C383.296,489.628 316.904,487.447 282.853,491.187 C276.010,492.699 269.055,493.909 261.999,494.804 C261.110,495.031 260.643,495.167 260.643,495.167 L260.685,494.973 C251.489,496.086 242.130,496.671 232.634,496.678 C104.267,496.773 0.107,392.867 -0.013,264.598 C-0.133,136.329 103.832,32.268 232.200,32.172 C270.181,32.144 306.037,41.228 337.710,57.349 L337.752,57.119 C338.030,57.348 338.306,57.570 338.583,57.797 C353.776,65.611 367.996,75.048 381.014,85.880 C434.984,112.945 476.182,100.094 500.211,85.835 C507.725,79.389 515.509,73.249 523.546,67.437 C523.911,67.038 524.099,66.819 524.099,66.819 L524.140,67.011 C582.641,24.889 654.434,0.043 732.053,-0.015 C929.001,-0.162 1088.807,159.255 1088.991,356.053 C1089.175,552.850 929.667,712.504 732.720,712.651 Z"/>
+</g>
+<path fill="url(#PSgrad_0)"
+ d="M732.720,712.651 C617.821,712.736 515.585,658.499 450.294,574.227 L450.243,574.385 C450.018,574.011 449.786,573.656 449.560,573.285 C443.783,565.777 438.302,558.030 433.127,550.065 C383.296,489.628 316.904,487.447 282.853,491.187 C276.010,492.699 269.055,493.909 261.999,494.804 C261.110,495.031 260.643,495.167 260.643,495.167 L260.685,494.973 C251.489,496.086 242.130,496.671 232.634,496.678 C104.267,496.773 0.107,392.867 -0.013,264.598 C-0.133,136.329 103.832,32.268 232.200,32.172 C270.181,32.144 306.037,41.228 337.710,57.349 L337.752,57.119 C338.030,57.348 338.306,57.570 338.583,57.797 C353.776,65.611 367.996,75.048 381.014,85.880 C434.984,112.945 476.182,100.094 500.211,85.835 C507.725,79.389 515.509,73.249 523.546,67.437 C523.911,67.038 524.099,66.819 524.099,66.819 L524.140,67.011 C582.641,24.889 654.434,0.043 732.053,-0.015 C929.001,-0.162 1088.807,159.255 1088.991,356.053 C1089.175,552.850 929.667,712.504 732.720,712.651 Z"/>
+<g filter="url(#Filter_1)">
+<path fill-rule="evenodd"  fill="#F9BC11"
+ d="M337.809,478.686 C306.029,473.813 276.314,495.638 271.438,527.432 C266.563,559.226 288.374,588.950 320.154,593.822 C351.934,598.694 381.649,576.869 386.524,545.076 C391.399,513.281 369.589,483.558 337.809,478.686 Z"/>
+</g>
+<g filter="url(#Filter_2)">
+<path fill-rule="evenodd"  fill="#F9BC11"
+ d="M278.750,584.300 C264.011,582.040 250.230,592.162 247.969,606.907 C245.708,621.652 255.823,635.437 270.562,637.696 C285.301,639.955 299.082,629.834 301.343,615.089 C303.604,600.344 293.489,586.559 278.750,584.300 Z"/>
+</g>
+</svg>
